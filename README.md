@@ -13,10 +13,21 @@ No necesitas cuenta de GitHub.
 para Mac con Intel, Windows ni Linux.
 
 ## Instalar
-
-1. Abre el archivo descargado `Editor-Mauro-0.5.1-macOS-arm64.dmg`.
+1. Descarga **Editor-Mauro-0.5.1-macOS-arm64.dmg** y ábrelo.
 2. Arrastra **Editor Mauro** a la carpeta **Aplicaciones**.
 3. Abre **Editor Mauro** desde Aplicaciones.
 
-Más detalles, incluido qué hacer si macOS no la deja abrir la primera vez, en la
-[página de la versión](https://github.com/MauroSf-attack/editor-mauro-releases/releases/tag/v0.5.1).
+## Si macOS no la deja abrir la primera vez
+Editor Mauro todavía no tiene firma de Apple, así que la primera vez macOS puede mostrar
+**«No se abrió “Editor Mauro”»** («Apple no pudo verificar que “Editor Mauro” no contenga software malicioso…»):
+
+1. Pulsa **Listo** (no «Mover al basurero»).
+2. Abre **Ajustes del Sistema → Privacidad y seguridad** y baja hasta **Seguridad**.
+3. Junto al aviso sobre «Editor Mauro», pulsa **Abrir de todos modos** y confírmalo con tu contraseña o Touch ID.
+4. Vuelve a abrir Editor Mauro y, si lo pregunta, pulsa **Abrir de todos modos**.
+
+Solo hace falta una vez. No desactives Gatekeeper ni uses comandos de Terminal.
+
+## Primera vez que generas subtítulos
+Editor Mauro descarga una sola vez su modelo de voz (unos 490 MB) y lo muestra en pantalla
+(«Preparando subtítulos por primera vez · Descargando modelo de voz… %»). Necesita internet solo esa vez.
