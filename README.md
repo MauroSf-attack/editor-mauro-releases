@@ -5,7 +5,11 @@ en este repositorio.
 
 ## Descargar
 
-**[Descargar Editor Mauro 0.5.1 para Mac (Apple Silicon)](https://github.com/MauroSf-attack/editor-mauro-releases/releases/download/v0.5.1/Editor-Mauro-0.5.1-macOS-arm64.dmg)** · 257 MB
+**[Descargar Editor Mauro 0.7.0 para Mac (Apple Silicon)](https://github.com/MauroSf-attack/editor-mauro-releases/releases/download/v0.7.0/Editor-Mauro-0.7.0-macOS-arm64.dmg)** · 275 MB
+
+Editor Mauro funciona con una **cuenta aprobada**: al abrirlo, pulsa «Solicitar una cuenta», confirma tu correo con el
+código de 8 dígitos y espera la aprobación. Si ya tenías una versión anterior, instálala encima (**Reemplazar**): tus
+proyectos se conservan.
 
 No necesitas cuenta de GitHub.
 
@@ -13,7 +17,7 @@ No necesitas cuenta de GitHub.
 para Mac con Intel, Windows ni Linux.
 
 ## Instalar
-1. Descarga **Editor-Mauro-0.5.1-macOS-arm64.dmg** y ábrelo.
+1. Descarga **Editor-Mauro-0.7.0-macOS-arm64.dmg** y ábrelo.
 2. Arrastra **Editor Mauro** a la carpeta **Aplicaciones**.
 3. Abre **Editor Mauro** desde Aplicaciones.
 
