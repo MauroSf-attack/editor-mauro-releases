@@ -3,17 +3,17 @@
  "version": 1,
  "channel": "stable",
  "bundle_id": "mx.editormauro.app",
- "issued": "2026-11-06T00:36:42Z",
- "expires": "2027-02-04T00:36:42Z",
- "sequence": 1,
+ "issued": "2026-11-06T21:36:40Z",
+ "expires": "2027-02-04T21:36:40Z",
+ "sequence": 2,
  "latest": {
-  "app": "0.8.0",
+  "app": "0.8.1",
   "minimum_os": "14.0",
   "arch": "arm64",
-  "url": "https://github.com/MauroSf-attack/editor-mauro-releases/releases/download/v0.8.0/Editor-Mauro-0.8.0-macOS-arm64.zip",
-  "bytes": 252991331,
-  "sha256": "73a87f1141b3b8a28e2ad592eb54f429ce088e4fc10cd78134777f2036b99ba2",
-  "notes": "Editor Mauro 0.8.0: actualizaciones automáticas desde la app y migración Web → Escritorio"
+  "url": "https://github.com/MauroSf-attack/editor-mauro-releases/releases/download/v0.8.1/Editor-Mauro-0.8.1-macOS-arm64.zip",
+  "bytes": 252991337,
+  "sha256": "a3b89f978b5162fbbe27bce53e6501c65920fd5a8fe228f5fe3ecae35d646540",
+  "notes": "Editor Mauro 0.8.1: primera actualización automática"
  },
  "revoked": []
 }
